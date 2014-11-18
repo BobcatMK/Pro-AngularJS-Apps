@@ -1,1 +1,1 @@
-This application is based on chapter 9 of Pro AngularJS book
+These applications are based on Pro AngularJS book
